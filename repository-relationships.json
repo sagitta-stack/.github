@@ -29,7 +29,7 @@
     "contains_non_public_inventory": true,
     "digest": "sha256:4260eb3dc1186fc1ebcc90a574d9e507c145db3088387190d4b3fcdefe85d10d",
     "path": "owners/sagitta-stack.json",
-    "repository": "ORESoftware/project-registry"
+    "repository": "approved-private-registry"
   },
   "relationships": [
     {
